@@ -1,7 +1,10 @@
 Fufilled task requested by employer.
-  -Generator requires a 8 to 128 key combo to generate
-  -Offers option for lowercase, uppercase, numbers, and special characters
-  -Once options have been confirmed the password will process a unique password for the user
+
+Generator requires a 8 to 128 key combo to generate
+
+Offers option for lowercase, uppercase, numbers, and special characters
+
+Once options have been confirmed the password will process a unique password for the user
 
 # 03 JavaScript: Password Generator
 
